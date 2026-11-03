@@ -1,6 +1,6 @@
 # 💬 ChatPulse — WhatsApp Chat Analyzer
 
-> A sleek, dark-themed analytics dashboard that transforms your exported WhatsApp chats into rich visual insights — timelines, heatmaps, word clouds, emoji breakdowns, and more.
+A sleek, dark-themed analytics dashboard that transforms your exported WhatsApp chats into rich visual insights — timelines, heatmaps, word clouds, emoji breakdowns, and more.
 
 ---
 
